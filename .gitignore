@@ -1,0 +1,12 @@
+# Hardhat output and cache
+build/
+hardhat.config.js
+hardhat.network
+
+# Test artifacts
+test/contracts/*.json
+test/contracts/*.js
+artifacts/
+
+# Node modules
+node_modules/
