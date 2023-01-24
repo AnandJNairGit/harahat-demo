@@ -10,3 +10,4 @@ artifacts/
 
 # Node modules
 node_modules/
+.env
